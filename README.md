@@ -1,6 +1,7 @@
 # CurrencyCoverterApp
 This project provides a global currency converter that allows users to convert exchange rates between multiple countries and view the latest market rates.
 Introduction about this app: A modern currency exchange application built with Python, featuring MVC architecture, Object-Oriented Design Patterns, and Bilingual( Vietnamese-English), number-to-text conversion.
+
 Key feature: 
 Real-time Exchange Rates: Integrated with external APIs to fetch the latest rates for over 150 currencies
 MVC Architecture: Strict separation of concerns between Data Logic(Model), User Interface(View), and Navigation(Controller)
